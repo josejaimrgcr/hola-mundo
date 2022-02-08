@@ -1,5 +1,5 @@
-# hola-mundo
+# Hola Mundo
 Repositorio de prueba
 
-Autor: Josá Castañeda
+Autor: José Castañeda
 Fecha: 7 de Abril del 2021
